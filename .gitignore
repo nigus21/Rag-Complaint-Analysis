@@ -1,0 +1,17 @@
+# Data files
+data/complaints.csv
+data/processed/
+vector_store/
+
+# Python artifacts
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+env/
+venv/
+.env
+
+# OS files
+.DS_Store
+Thumbs.db
