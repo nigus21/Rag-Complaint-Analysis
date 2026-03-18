@@ -6,7 +6,6 @@
 [![Inference: ONNX/DirectML](https://img.shields.io/badge/Inference-ONNX_DirectML-green)](https://onnxruntime.ai/)
 [![Model: Flan-T5](https://img.shields.io/badge/Model-Flan--T5--Small-red)](https://huggingface.co/google/flan-t5-small)
 
-get the data from here: https://www.consumerfinance.gov/data-research/consumer-complaints/#get-the-data
 ---
 
 ## 📄 Project Overview & Business Case
@@ -98,6 +97,10 @@ The system undergoes rigorous evaluation using a subset of "Golden Questions"—
 *   **Hybrid Search Integration**: Combining keyword-based BM25 search with Vector similarity for better "Specific ID" lookups.
 *   **Multi-Modal Analysis**: Extending support to scanned PDF complaint documents and audio transcripts.
 *   **Role-Based Access Control (RBAC)**: Integrating with Active Directory for enterprise-grade security.
+
+---
+
+Get the data from here: https://www.consumerfinance.gov/data-research/consumer-complaints/#get-the-data
 
 ---
 
