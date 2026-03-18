@@ -6,6 +6,7 @@
 [![Inference: ONNX/DirectML](https://img.shields.io/badge/Inference-ONNX_DirectML-green)](https://onnxruntime.ai/)
 [![Model: Flan-T5](https://img.shields.io/badge/Model-Flan--T5--Small-red)](https://huggingface.co/google/flan-t5-small)
 
+get the data from here: https://www.consumerfinance.gov/data-research/consumer-complaints/#get-the-data
 ---
 
 ## 📄 Project Overview & Business Case
